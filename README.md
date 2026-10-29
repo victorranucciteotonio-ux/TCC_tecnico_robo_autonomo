@@ -20,7 +20,7 @@
 
 | Base Primitiva / Protótipo | Sistema de Visão / Câmera |
 | :---: | :---: |
-| <!-- ESPAÇO PARA FOTO DA BASE --> <img src="[docs/images/base_primitiva.jpg](https://drive.google.com/file/d/1UVpkkvF2acqUvtVP_N4KeIJRoXoAdn42/view?usp=drive_link)" width="350px" alt="Base Primitiva"/> | <!-- ESPAÇO PARA FOTO DA CÂMERA/ESP32 --> <img src="docs/images/camera_setup.jpg" width="350px" alt="Montagem da Câmera"/> |
+| <!-- ESPAÇO PARA FOTO DA BASE --> <img src="[[docs/images/base_primitiva.jpg](https://drive.google.com/file/d/1UVpkkvF2acqUvtVP_N4KeIJRoXoAdn42/view?usp=drive_link)](https://drive.google.com/file/d/1UVpkkvF2acqUvtVP_N4KeIJRoXoAdn42/view?usp=drive_link)" width="350px" alt="Base Primitiva"/> | <!-- ESPAÇO PARA FOTO DA CÂMERA/ESP32 --> <img src="docs/images/camera_setup.jpg" width="350px" alt="Montagem da Câmera"/> |
 
 </div>
 
