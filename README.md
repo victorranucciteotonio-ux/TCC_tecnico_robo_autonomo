@@ -7,24 +7,6 @@
 
 ---
 
-## 📸 Galeria do Projeto
-
-<!-- ESPAÇO PARA A IMAGEM PRINCIPAL DO ROBÔ FINALIZADO -->
-<p align="center">
-  <img src="docs/images/robo_final.jpg" alt="Robô Seguidor de Linha Finalizado" width="600px"/>
-  <br>
-  <em>Figura 1: Robô Seguidor de Linha com Câmera Remota Finalizado.</em>
-</p>
-
-<div align="center">
-
-| Base Primitiva / Protótipo | Sistema de Visão / Câmera |
-| :---: | :---: |
-| <!-- ESPAÇO PARA FOTO DA BASE --> <img src="[[docs/images/base_primitiva.jpg](https://drive.google.com/file/d/1UVpkkvF2acqUvtVP_N4KeIJRoXoAdn42/view?usp=drive_link)](https://drive.google.com/file/d/1UVpkkvF2acqUvtVP_N4KeIJRoXoAdn42/view?usp=drive_link)" width="350px" alt="Base Primitiva"/> | <!-- ESPAÇO PARA FOTO DA CÂMERA/ESP32 --> <img src="docs/images/camera_setup.jpg" width="350px" alt="Montagem da Câmera"/> |
-
-</div>
-
----
 
 ## 📌 Sobre o Projeto
 
